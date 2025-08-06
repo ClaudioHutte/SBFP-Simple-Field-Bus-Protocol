@@ -69,8 +69,7 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 
 ![SFBP logo - large format. You are athorized and encouraged to use this logo if you implement the SFBP protocol in your own device or software](SFBPlogoBIG.png)
 
-## Implementations
+## Reference website
 
 - [NSC Networked Shared Control](https://upower.artdevices.com/)
 
-*If you implemented the protocol contact me and I'll add your name here.*
